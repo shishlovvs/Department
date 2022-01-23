@@ -1,0 +1,10 @@
+class ResidentEmployee   |Ivanov         |Ivan      |46        |Director            |                    50000RUB|
+class ResidentEmployee   |Sidorov        |Andrey    |30        |Co-director         |                    30000RUB|
+class ResidentEmployee   |Bass           |Evgenyy   |35        |Chief spetsialist   |                    25000RUB|
+class ResidentEmployee   |Meshkov        |Vladislav |25        |Chief spetsialist   |                    25000RUB|
+class ResidentEmployee   |Krivova        |Anastasiya|21        |Spetsialist         |                    26000RUB|
+class ResidentEmployee   |Yakovleva      |Kseniya   |20        |Spetsialist         |                    26000RUB|
+class ResidentEmployee   |Meretin        |Vikentii  |26        |Engineer            |                    35000RUB|
+class HourEmployee       |Kochubeev      |Denis     |26        |Consultant          |       192hour|       132RUB|
+class HourEmployee       |Buryakov       |Aleksandr |25        |Programmist         |       192hour|       150RUB|
+class HourEmployee       |Klimakov       |Aleksei   |25        |Programmist         |       192hour|       148RUB|

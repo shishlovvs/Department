@@ -303,11 +303,8 @@ void main()
 	Employee* department[] =
 	{
 		new ResidentEmployee("Ivanov", "Ivan", 46, "Director", 50000),
-		new ResidentEmployee("Sidorov", "Andrey", 30, "Co-director", 30000),
 		new ResidentEmployee("Bass", "Evgenyy", 35, "Chief spetsialist", 25000),
-		new ResidentEmployee("Meshkov", "Vladislav", 25, "Chief spetsialist", 25000),
 		new ResidentEmployee("Krivova", "Anastasiya", 21, "Spetsialist", 26000),
-		new ResidentEmployee("Yakovleva", "Kseniya", 20, "Spetsialist", 26000),
 		new ResidentEmployee("Meretin", "Vikentii", 26, "Engineer", 35000),
 		new HourEmployee("Kochubeev", "Denis", 26, "Consultant", 132, 192),
 		new HourEmployee("Buryakov", "Aleksandr", 25, "Programmist", 150, 192),
